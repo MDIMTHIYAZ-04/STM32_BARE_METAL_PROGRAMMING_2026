@@ -7,7 +7,6 @@ void delay(void)
 {
     for (volatile uint32_t i = 0; i < 1000000U; i++)
     {
-
     }
 }
 
